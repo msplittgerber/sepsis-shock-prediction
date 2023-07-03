@@ -46,11 +46,11 @@ o	Evaluates the trained model on the test set and computes performance metrics.
 
 ## Results
 
-The results of the LSTM-based sepsis prediction model can be found in the results folder. This folder contains saved model weights, evaluation metrics, and visualizations. The evaluation metrics include accuracy, precision, recall, and the ROC curve.
+The LSTM neural networks shows promising results in predicting sepsis occurrence based on time-series data. By capturing temporal dependencies and evolving patient conditions, the model provides early warnings for sepsis, enabling timely interventions. The project highlights the importance of leveraging deep learning techniques to improve sepsis prediction accuracy and patient outcomes.
 
 ## Contributing
 
-Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. We appreciate your contributions.
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. I appreciate your contributions.
 
 ## License
 
