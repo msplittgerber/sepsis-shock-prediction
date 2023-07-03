@@ -32,15 +32,10 @@ To run the code in this repository, you'll need the following:
    ```bash
    git clone https://github.com/msplittgerber/sepsis-shock-prediction.git
    ````
-2.	Install the required Python packages:
-   
-  ```bash
-  pip install -r requirements.txt
-  ```
-4.	Explore the Jupyter notebook in the repository:
-o	Covers the preprocessing steps for handling missing values, feature engineering, and scaling the data.
-o	Includes the implementation of the LSTM model and training process.
-o	Evaluates the trained model on the test set and computes performance metrics.
+2.	Explore the Jupyter notebook in the repository:
+-	Covers the preprocessing steps for handling missing values, feature engineering, and scaling the data.
+-	Includes the implementation of the LSTM model and training process.
+-	Evaluates the trained model on the test set and computes performance metrics.
 
 3.	Modify the code and experiment with different parameters as needed.
 
