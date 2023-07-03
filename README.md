@@ -41,7 +41,7 @@ To run the code in this repository, you'll need the following:
 
 ## Results
 
-The LSTM neural networks shows promising results in predicting sepsis occurrence based on time-series data. By capturing temporal dependencies and evolving patient conditions, the model provides early warnings for sepsis, enabling timely interventions. The project highlights the importance of leveraging deep learning techniques to improve sepsis prediction accuracy and patient outcomes.
+The LSTM neural networks shows promising results in predicting sepsis occurrence based on time-series data. Overall, increasing the window size from 5 to 10 resulted in improved accuracy, precision, recall, and AUROC scores. The model with a window size of 10 performed better in terms of correctly predicting positive cases (higher recall) and had a slightly higher precision. However, the overall performance of both models can still be considered moderate, and further refinement and optimization may be required to achieve better results.
 
 ## Contributing
 
