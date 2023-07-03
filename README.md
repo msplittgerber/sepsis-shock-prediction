@@ -1,6 +1,6 @@
 # Sepsis Prediction using LSTM
 
-This repository contains code for predicting sepsis occurrence using an LSTM-based deep learning model. The goal is to predict the occurrence of sepsis as early as possible using time series data from multiple patients.
+This repository contains code for predicting sepsis occurrence using an LSTM-based deep learning model. The goal is to predict the occurrence of sepsis as early as possible using time series data from multiple patients, using the [PhysioNet/Computing in Cardiology Challenge 2019 Dataset](https://physionet.org/content/challenge-2019/1.0.0/)
 
 ## Table of Contents
 
