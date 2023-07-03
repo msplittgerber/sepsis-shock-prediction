@@ -30,9 +30,10 @@ To run the code in this repository, you'll need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sepsis-prediction-lstm.git
+   git clone https://github.com/msplittgerber/sepsis-shock-prediction.git
    ````
 2.	Install the required Python packages:
+   
   ```bash
   pip install -r requirements.txt
   ```
